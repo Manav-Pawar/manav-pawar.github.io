@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://manav-pawar.github.io/sitemap.xml
